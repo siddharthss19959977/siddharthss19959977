@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Siddharth
+- 👋 Hi, I’m Siddharth
 - 👀 Interested in Software Development , Quality Assurance and collecting software and learning how to use them
 - 🌱 Currently learning Full Stack Development using Java :)
 <!---
